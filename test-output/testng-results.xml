@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-29T13:17:45 EDT" name="Suite" finished-at="2023-06-29T13:17:50 EDT" duration-ms="5013">
+    <groups>
+    </groups>
+    <test started-at="2023-06-29T13:17:45 EDT" name="Test" finished-at="2023-06-29T13:17:50 EDT" duration-ms="5013">
+      <class name="com.auto.tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.auto.tests.LoginTest@dd8ba08]" started-at="2023-06-29T13:17:45 EDT" name="setup" finished-at="2023-06-29T13:17:48 EDT" duration-ms="2430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:0, instance:com.auto.tests.LoginTest@dd8ba08]" started-at="2023-06-29T13:17:48 EDT" name="test1" finished-at="2023-06-29T13:17:48 EDT" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.auto.tests.LoginTest@dd8ba08]" started-at="2023-06-29T13:17:48 EDT" name="tearDown" finished-at="2023-06-29T13:17:48 EDT" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.auto.tests.LoginTest -->
+      <class name="com.auto.tests.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.auto.tests.HomePageTest@2f9f7dcf]" started-at="2023-06-29T13:17:45 EDT" name="setup" finished-at="2023-06-29T13:17:48 EDT" duration-ms="2439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test2()[pri:0, instance:com.auto.tests.HomePageTest@2f9f7dcf]" started-at="2023-06-29T13:17:48 EDT" name="test2" finished-at="2023-06-29T13:17:48 EDT" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.auto.tests.HomePageTest@2f9f7dcf]" started-at="2023-06-29T13:17:48 EDT" name="tearDown" finished-at="2023-06-29T13:17:49 EDT" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.auto.tests.HomePageTest@2f9f7dcf]" started-at="2023-06-29T13:17:48 EDT" name="setup" finished-at="2023-06-29T13:17:50 EDT" duration-ms="1515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test3()[pri:0, instance:com.auto.tests.HomePageTest@2f9f7dcf]" started-at="2023-06-29T13:17:50 EDT" name="test3" finished-at="2023-06-29T13:17:50 EDT" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.auto.tests.HomePageTest@2f9f7dcf]" started-at="2023-06-29T13:17:50 EDT" name="tearDown" finished-at="2023-06-29T13:17:50 EDT" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.auto.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
